@@ -1,12 +1,16 @@
 ### Hi 👋
 
-I'm a senior undergraduate student at ECNU (East China Normal University). 
+I'm a 3rd year undergraduate student at ECNU (East China Normal University). 
 
-- Current Activity: 
-  - working on an open-source book about data science in Chinese
-  - reading Real Analysis by Elias M. Stein (trying to retreive something from my rusty memory) and taking notes in formal language
-  - reading Midnights Children
+- Interests (academic): somewhat ouroboros-ish
+  - Theory of Computation & Application to System Eng.
+  - System Eng. & Application to Deep Learning
+  - Deep Learning & Application to Solving Games
+  - Game Theory & Application to Theory of Computation
 
-- Interests: Coding, Math, Music Production
+- Interests (for weekends):
+  - Practical Music Theory + Math
+  - Music Production
+  - Cooking
 
-- Favorite Movies: ハーモニー, 屍者の帝国 <= About Dystopia, Not a Horror Movie
+- One more thing: I restarted my blog site recently: [Y-jiji's Blog Site](y-jiji.github.io/blog)
