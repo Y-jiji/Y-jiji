@@ -13,4 +13,4 @@ I'm a 3rd year undergraduate student at ECNU (East China Normal University).
   - Music Production
   - Cooking
 
-- One more thing: I restarted my blog site recently: [Y-jiji's Blog Site](y-jiji.github.io/blog)
+- One more thing: I restarted my blog site recently: [Y-jiji's Blog Site](https://y-jiji.github.io/blog)
