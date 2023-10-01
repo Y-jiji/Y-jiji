@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a 3rd year undergraduate student at ECNU (East China Normal University). 
+I'm a 4th year undergraduate student at ECNU (East China Normal University). 
 
 - Interests (academic): somewhat ouroboros-ish
   - Theory of Computation & Application to System Eng.
