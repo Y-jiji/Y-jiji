@@ -1,8 +1,10 @@
 # Hi 👋
 
 I'm an incoming MSCS student at Georgia Tech. 
+
+- Interests: 
   - TCS & Database
-  - Language Models (Slightly)
+  - Language Models (Casual Interest)
   - Cooking
 
 - Find me at:
