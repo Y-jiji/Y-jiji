@@ -1,16 +1,12 @@
-### Hi 👋
+# Hi 👋
 
-I'm a 4th year undergraduate student at ECNU (East China Normal University). 
-
-- Interests (academic): somewhat ouroboros-ish
-  - Theory of Computation & Application to System Eng.
-  - System Eng. & Application to Deep Learning
-  - Deep Learning & Application to Solving Games
-  - Game Theory & Application to Theory of Computation
-
-- Interests (for weekends):
-  - Practical Music Theory + Math
-  - Music Production
+I'm an incoming MSCS student at Georgia Tech. 
+  - TCS & Database
+  - Language Models (Slightly)
   - Cooking
 
-- One more thing: I restarted my blog site recently: [Y-jiji's Blog Site](https://y-jiji.github.io/blog)
+- Find me at:
+  - Blog: [Y-jiji's Blog Site](https://y-jiji.github.io/blog), Publications, Technical Report, "Why it doesn't work" Reports, ...  
+  - Note: [Y-jiji's Notizbuch](https://github.com/Y-jiji/notizbuch), Mathematical Analysis, Programming Languages, System Development, ...
+
+<img src="https://github-readme-stats.vercel.app/api?username=Y-jiji&title_color=cc0000&text_color=880000&show=prs_merged">
