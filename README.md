@@ -1,14 +1,19 @@
 # Hi 👋
 
-I'm an incoming MSCS student at Georgia Tech. 
+I'm a MSCS student @ Georgia Tech. 
 
 - Interests: 
-  - TCS & Database
+  - Database
+  - Sketch Algorithms
   - Language Models (Casual Interest)
-  - Cooking
 
 - Find me at:
   - Blog: [Y-jiji's Blog Site](https://y-jiji.github.io/blog), Publications, Technical Report, "Why it doesn't work" Reports, ...  
   - Note: [Y-jiji's Notizbuch](https://github.com/Y-jiji/notizbuch), Mathematical Analysis, Programming Languages, System Development, ...
+  - KACB 3337
 
-<img src="https://github-readme-stats.vercel.app/api?username=Y-jiji&title_color=cc0000&text_color=880000&show=prs_merged">
+# Github Stats
+
+<div style="margin:auto">
+    <img src="https://github-readme-stats.vercel.app/api?username=Y-jiji&title_color=cc0000&text_color=880000&show=prs_merged">
+</div>
