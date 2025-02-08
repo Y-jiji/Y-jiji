@@ -2,14 +2,12 @@
 
 I'm a MSCS student @ Georgia Tech. 
 
-- Interests: 
-  - Database
-  - Sketch Algorithms
-  - Language Models (Casual Interest)
+- Research Interests: 
+  - Database Systems
+  - Randomized Algorithms
+  - Massive Parallelism
 
 - Find me at:
-  - Blog: [Y-jiji's Blog Site](https://y-jiji.github.io/blog), Publications, Technical Report, "Why it doesn't work" Reports, ...  
-  - Note: [Y-jiji's Notizbuch](https://github.com/Y-jiji/notizbuch), Mathematical Analysis, Programming Languages, System Development, ...
   - KACB 3337
 
 # Github Stats
