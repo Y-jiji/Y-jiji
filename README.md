@@ -2,6 +2,10 @@
 
 I'm a MSCS student @ Georgia Tech. 
 
+- Pronounce My Name:
+  - Tian -> Titan without second 't'
+  - ji -> Letter 'G'
+
 - Research Interests: 
   - Database Systems
   - Randomized Algorithms
