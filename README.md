@@ -6,10 +6,9 @@ I'm a MSCS student @ Georgia Tech.
   - Tian -> Titan without second 't'
   - ji -> Letter 'G'
 
-- Research Interests: 
-  - Database Systems
-  - Randomized Algorithms
-  - Massive Parallelism
+- Research Interests:
+  - Components of Database: Storage System, Query Optimization, Query Execution, Transactions
+  - I find slacks in heuristic algorithms for performance engineering. 
 
 - Find me at:
   - KACB 3337
