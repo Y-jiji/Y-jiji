@@ -8,5 +8,5 @@ I'm a PhD student @ Michigan State University.
 
 - Research Interests:
   - I find slacks in heuristic algorithms for performance engineering. 
-  - Components of Database: Storage System, Query Optimization, Query Execution, Transactions
+  - Components of Database: Storage Systems, Query Execution, Transactions, Query Optimization
   - Performance Engineering in Data Intensive Systems
