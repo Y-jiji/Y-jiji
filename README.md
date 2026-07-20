@@ -2,11 +2,15 @@
 
 I'm a PhD student @ Michigan State University. 
 
-- Pronounce My Name:
-  - Tian -> Titan without second 't'
-  - ji -> Letter 'G'
+Pronounce My Name:
+- Tian -> Titan without second 't'
+- ji -> Letter 'G'
 
-- Research Interests:
-  - I find slacks in heuristic algorithms for performance engineering. 
-  - Components of Database: Storage Systems, Query Execution, Transactions, Query Optimization
-  - Performance Engineering in Data Intensive Systems
+Research Interests:
+- I find slacks in heuristic algorithms for performance engineering. 
+- Components of Database: Storage Systems, Query Execution, Transactions, Query Optimization
+- Performance Engineering in Data Intensive Systems
+
+Non-professional Activities:
+- Blogging about weird stuff
+- GTM52 exercises
