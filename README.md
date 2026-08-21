@@ -6,7 +6,7 @@ Pronounce My Name:
 
 Research Interests:
 - Everything about DBMS: Storage Systems, Query Execution, Transactions, Query Optimization, etc.
-- Performance Engineering in Data Intensive Systems
+- Performance Engineering in GPU / Accelerators
 - Slacks in Heuristic Algorithms for Performance Engineering
 
 Non-professional Activities:
