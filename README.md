@@ -12,3 +12,6 @@ Research Interests:
 Non-professional Activities:
 - Blogging about weird stuff
 - Read: Rising Sea
+
+Find me: 
+- EB Room 3353
